@@ -9,3 +9,10 @@ Everything related to electricity, electronics and automation.
 +PLC Programming
 
 +Problem solving
+
+
+
+
+
+
+⚡ @Bymsk26 ⚡
